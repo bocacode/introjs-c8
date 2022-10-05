@@ -73,4 +73,12 @@ let fruits = ["Banana", "Berry", "Apple", "Mango", "Guanabana"];
 
 // console.log(fruits.indexOf("mango"))
 
-console.log(` my fruits are: ${fruits.join("🤙🏼 ")}`)
+
+
+
+console.
+log(` my fruits are: ${fruits.join("🤙🏼 ")}`)
+const damian = true;
+console.log("damian",damian)
+
+
